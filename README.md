@@ -1,3 +1,8 @@
+![logo](./media/sh-banners.png)
+=========
+[![Maintenance](https://img.shields.io/maintenance/yes/2023.svg?style=flat-square)]()
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 # KQL-Coding-Standards
  > This blog is a conceptual idea and attempt to create a baseline for writing KQL code, also known as the Kusto Query Language.
  
